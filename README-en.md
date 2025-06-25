@@ -1,6 +1,6 @@
 # L-Jovi's Burning Sky
 
-It's my personal blog implements by Hexo as my github appearance 👻
+[README (zh)](./README.md)
 
 ## About Blog
 

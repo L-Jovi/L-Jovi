@@ -2,8 +2,6 @@
 
 [README (en)](./README-en.md)
 
-该项目作为个人博客和 Github Profile 依赖 Hexo 实现。
-
 ## 博客的说明
 
 个人博客仅记录生活主观向内容，不包含任何技术分享。
