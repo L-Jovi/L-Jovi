@@ -1,26 +1,26 @@
 # L-Jovi's Burning Sky
 
-[README (en)](./README-en.md)
+English | [简体中文](README.zh-Hans.md)
 
-## 博客的说明
+## About the blog
 
-个人博客仅记录生活主观向内容，不包含任何技术分享。
+This personal blog contains my subjective reflections on life. It does not include technical articles.
 
-领域和技术相关内容请移步[维基站](https://blackpearl.fun)（维护中 :D）。
+For domain-specific and technical content, visit my [wiki](https://blackpearl.fun) (under maintenance :D).
 
-本站有以下说明：
+A few notes about the blog:
 
-- 不开放注册和评论功能
-- 所描述的内容只会以笔者能够阅读理解的方式记录
-- 内容会随着个人经历的增长和知识体系的逐渐完备不断更新
+- Registration and comments are disabled.
+- I write in a way that makes sense to me.
+- The content evolves as I gain experience and develop my understanding.
 
-## 关于个人
+## About me
 
-你可以在以下平台搜索到我的相关信息。
+You can find me on the following platforms:
 
-- [个人博客](https://l-jovi.github.io)
-- [Github](https://github.com/L-Jovi)
+- [Personal blog](https://l-jovi.github.io)
+- [GitHub](https://github.com/L-Jovi)
 - [Stack Overflow](https://stackoverflow.com/users/4004375/e-jovi)
 - [Steam](http://steamcommunity.com/id/eternal_jovi)
 
-感谢阅读 :)
+Thanks for reading :)
